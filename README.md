@@ -69,8 +69,8 @@ pkg list-i
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/XPR01423/termux-pkg-apt.git
+cd termux-pkg-apt
 ```
 
 Compile a statically linked executable:
